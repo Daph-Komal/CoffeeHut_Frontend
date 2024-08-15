@@ -1,2 +1,3 @@
 - latte - with extra milk
-- coffee cappuccino 0 
+- coffee cappuccino 0
+- cappucchino 10% with choco_latte
